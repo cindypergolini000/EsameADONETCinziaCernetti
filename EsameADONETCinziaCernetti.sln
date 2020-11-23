@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsameADONETCinziaCernetti", "EsameADONETCinziaCernetti\EsameADONETCinziaCernetti.csproj", "{C8A6BB0E-B10D-41B9-BC7B-6566C2F0CFE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8A6BB0E-B10D-41B9-BC7B-6566C2F0CFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A6BB0E-B10D-41B9-BC7B-6566C2F0CFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A6BB0E-B10D-41B9-BC7B-6566C2F0CFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A6BB0E-B10D-41B9-BC7B-6566C2F0CFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0D70A0C-E889-4B72-A585-6E86A99CD5BA}
+	EndGlobalSection
+EndGlobal
